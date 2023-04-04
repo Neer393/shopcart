@@ -1,0 +1,287 @@
+.categories{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-top: 1rem;
+}
+.buying-options{
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+    width: 100%;
+}
+.buying-options::-webkit-scrollbar{
+    display: none;
+}
+.buying-options-dabba{
+    margin-right: 1rem;
+    padding: 0.3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.variants-holder{
+    margin-top: 0.5rem;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.variant-btn{
+    padding: 5px 10px;
+    background-color: white;
+    border-style: none;
+    cursor: pointer;
+    border: 2px solid rgb(206, 206, 206);
+    margin: 0.25rem;
+}
+.active-btn{
+    border: 2px solid orange;
+}
+.properties-holder{
+    margin-top: 0.7rem;
+    font-size: 1.05rem;
+}
+.about-item{
+    margin-top: 0.5rem;
+}
+.ul-list{
+    margin-left: 1rem;
+    line-height: 125%;
+    font-size: 1.09rem;
+}
+.purchase-item{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 0.5rem;
+    justify-content: center;
+}
+th,td{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.5rem;
+}
+/* Long Screens */
+
+@media screen and (min-width:901px) {
+    .specific-product-holder{
+        display: flex;
+        flex-direction: column;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        max-width: 100%;
+    }
+    .main-div{
+        display: flex;
+        flex-direction: row;
+        margin-top: 1rem;
+    }
+    .allimg-holder{
+        display: flex;
+        flex-direction: column;
+        width: 50px;
+        cursor: pointer;
+    }
+    .custom-img{
+        width: 400px;
+        height:400px;
+    }
+    .iframe-holder{
+        display: flex;
+        align-items: center;
+        position: relative;
+        top: 25px;
+        width: 400px;
+        margin-left: 1.5rem;
+        margin-right: 1.5rem;
+        max-height: 60vh;
+    }
+    .display-img{
+        width: 40px;
+        height: 40px;
+        border: 1px solid black;
+        margin-bottom: 0.5rem;
+    }
+    .technical-details{
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+        margin-top: 0.5rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+    .innerdiv{
+        max-width: 48%;
+        margin: 0.5rem 0;
+    }
+}
+
+@media (min-width:620px) and (max-width:900px) {
+    .specific-product-holder{
+        display: flex;
+        flex-direction: column;
+        margin-left: 1rem;
+        margin-right: 0.6rem;
+        max-width: 100%;
+    }
+    .main-div{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        margin-top: 1rem;
+    }
+    .allimg-holder{
+        display: flex;
+        flex-direction: column;
+        width: 50px;
+        cursor: pointer;
+    }
+    .custom-img{
+        width: 300px;
+        height:300px
+    }
+    .iframe-holder{
+        display: flex;
+        align-items: center;
+        position: relative;
+        top: 25px;
+        width: 300px;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+        max-height: 60vh;
+    }
+    .display-img{
+        width: 40px;
+        height: 40px;
+        border: 1px solid black;
+        margin-bottom: 0.5rem;
+    }
+    .product-details-holder{
+        max-width: 50%;
+    }
+    .technical-details{
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+        margin-top: 0.5rem;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+/* Short Screens */
+@media (min-width:301px) and (max-width:620px) {
+    .specific-product-holder{
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+    }
+    .main-div{
+        display: flex;
+        flex-direction: column;
+        margin-top: 1rem;
+    }
+    .allimg-holder{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-left: 0.5rem;
+        height: 50px;
+        width: 100%;
+        overflow-x: scroll;
+        margin-bottom: 0.5rem;
+    }
+    .display-img{
+        width: 40px;
+        height: 40px;
+        border: 1px solid black;
+        margin-right: 0.7rem;
+    }
+    .allimg-holder::-webkit-scrollbar{
+        display: none;
+    }
+    .custom-img{
+        width: 300px;
+        height:300px
+    }
+    .iframe-holder{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+        width: 300px;
+        height: 300px;
+    }
+    .product-details-holder{
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .technical-details{
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+        margin-top: 0.5rem;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+
+@media screen and (max-width:300px) {
+    .specific-product-holder{
+        display: flex;
+        flex-direction: column;
+        padding: 1rem;
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 0;
+    }
+    .main-div{
+        display: flex;
+        flex-direction: column;
+        margin-top: 0.5rem;
+    }
+    .allimg-holder{
+        display: flex;
+        flex-direction: row;
+        margin-left: 0.5rem;
+        align-items: center;
+        height: 50px;
+        overflow-x: scroll;
+        margin-bottom: 0.5rem;
+    }
+    .custom-img{
+        width: 280px;
+        height:300px
+    }
+    .display-img{
+        width: 40px;
+        height: 40px;
+        border: 1px solid black;
+        margin-right: 0.7rem;
+    }
+    .allimg-holder::-webkit-scrollbar{
+        display: none;
+    }
+    .iframe-holder{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+        width: 280px;
+        height: 300px;
+        margin-bottom: 0.5rem;
+    }
+    .product-details-holder{
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+    }
+    .technical-details{
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+        margin-top: 0.5rem;
+        display: flex;
+        flex-direction: column;
+    }
+}

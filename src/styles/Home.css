@@ -1,0 +1,110 @@
+.main-home-page{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+.image-gallery{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.gallery-img{
+    width: 95vw;
+    border-radius: 7px;
+    height: 380px;
+}
+.btn-div{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    justify-content: center;
+}
+.switch-btn{
+    height: 0.4rem;
+    width: 13vw;
+    margin: 0 0.2rem;
+    border-radius: 5px;
+    border-style: none;
+}
+.active-class{
+    background-color: grey;
+}
+.active-class2{
+    background-color: rgb(255, 102, 0);
+}
+.bg{
+    background-color: black;
+}
+.products-holder{
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+@media screen and (min-width:491px) {
+    .collections{
+        width: 95vw;
+        margin: auto;
+        margin-bottom: 1rem;
+        display: flex;
+        justify-content: center;
+        margin-top: 1rem;
+    }
+    .category-btn{
+        padding: 0.9rem 1rem;
+        font-size: 1.1rem;
+        margin-right: 0.1rem;
+        border-radius: 0;
+        border-style: none;
+        /* background-color: black; */
+        color: white;
+        cursor: pointer;
+    }
+    .category-btn:first-child{
+        border-radius: 15px 0 0 15px;
+    }
+    .category-btn:last-child{
+        border-radius: 0 15px 15px 0;
+    }
+}
+@media screen and (max-width:620px) {
+    .gallery-img{
+        width: 95vw;
+        border-radius: 7px;
+        height: 175px;
+    }
+}
+@media screen and (max-width:490px) {
+    .collections{
+        margin-top: 1rem;
+        width: 100%;
+        padding-left: 0.7rem;
+        display: flex;
+        flex-direction: row;
+        overflow-x: scroll;
+    }
+    .collections::-webkit-scrollbar{
+        display: none;
+    }
+    .category-btn{
+        padding: 0.6rem 0.9rem;
+        font-size: 1.1rem;
+        margin-right: 0.6rem;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid grey;
+        cursor: pointer;
+        border-radius: 10px;
+    }
+    .active-class2{
+        background-color: rgb(255, 102, 0);
+    }
+    .products-holder{
+        margin-top: 2rem;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
