@@ -27,7 +27,7 @@ export default function Navbar(){
     const filldata = async ()=>{
         dispatch(productActions.setUnsetSpinner(true));
         try{
-            Axios.get(`https://shopcart-backend.vercel.app/api/products?searchitem=${searchText}`,{
+            Axios.get(`https://shopcart-backend-c3rw.onrender.com/api/products?searchitem=${searchText}`,{
                 headers: {
                   'Access-Control-Allow-Origin' : '*',
                   'Access-Control-Allow-Methods':'GET,PUT,POST,DELETE,PATCH,OPTIONS'
