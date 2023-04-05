@@ -46,7 +46,10 @@ export default function Product(){
     useEffect(()=>{
         setShowSpinner(true);
         try{
-            Axios.get(`https://shopcart-backend.vercel.app/api/product?asin=${asin}`).then((response)=>{
+            Axios.get(`https://shopcart-backend.vercel.app/api/product?asin=${asin}`,headers: {
+              'Access-Control-Allow-Origin' : '*',
+              'Access-Control-Allow-Methods':'GET,PUT,POST,DELETE,PATCH,OPTIONS',
+            }).then((response)=>{
                 console.log(response.data.product);
                 setData(response.data.product);
                 setShowSpinner(false);
