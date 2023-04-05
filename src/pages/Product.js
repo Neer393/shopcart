@@ -46,7 +46,7 @@ export default function Product(){
     useEffect(()=>{
         setShowSpinner(true);
         try{
-            Axios.get(`https://shopcart-backend.vercel.app/api/product?asin=${asin}`,{
+            Axios.get(`https://shopcart-backend-c3rw.onrender.com/api/product?asin=${asin}`,{
                 headers: {
                   'Access-Control-Allow-Origin' : '*',
                   'Access-Control-Allow-Methods':'GET,PUT,POST,DELETE,PATCH,OPTIONS'
