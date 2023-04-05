@@ -27,7 +27,10 @@ export default function Navbar(){
     const filldata = async ()=>{
         dispatch(productActions.setUnsetSpinner(true));
         try{
-            Axios.get(`https://shopcart-backend.vercel.app/api/products?searchitem=${searchText}`).then((response)=>{
+            Axios.get(`https://shopcart-backend.vercel.app/api/products?searchitem=${searchText}`,headers: {
+              'Access-Control-Allow-Origin' : '*',
+              'Access-Control-Allow-Methods':'GET,PUT,POST,DELETE,PATCH,OPTIONS',
+            }).then((response)=>{
                 console.log(response.data.search_results);
                 dispatch(productActions.getProducts(response.data.search_results));
                 dispatch(productActions.setUnsetSpinner(false));
