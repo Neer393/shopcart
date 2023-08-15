@@ -10,7 +10,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81I3nSMWDNL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/51xz0+Y1oUL._SX300_SY300_.jpg",
       bestseller: {
         link: "https://www.amazon.in/gp/bestsellers/electronics/15747864031/ref=sr_bs_0_15747864031_1",
         category: "Smart Televisions"
@@ -62,7 +62,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71a4ZQNqTiL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/71a4ZQNqTiL._SX679_.jpg",
       rating: 4.2,
       ratings_total: 8968,
       sponsored: true,
@@ -104,7 +104,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71RhIMc2TBL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41IAkUhz1NL._SY300_SX300_QL70_FMwebp_.jpg",
       rating: 4.3,
       ratings_total: 7967,
       sponsored: true,
@@ -146,7 +146,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81I3nSMWDNL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/51xz0+Y1oUL._SX300_SY300_.jpg",
       bestseller: {
         link: "https://www.amazon.in/gp/bestsellers/electronics/15747864031/ref=sr_bs_3_15747864031_1",
         category: "Smart Televisions"
@@ -197,7 +197,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71d5fMDvq9L._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/71d5fMDvq9L._SX679_.jpg",
       deal: {
         link: "https://www.amazon.in/gp/goldbox/",
         badge_text: "Deal of the Day"
@@ -242,7 +242,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71a4ZQNqTiL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/51q3+E64azL._SX300_SY300_.jpg",
       rating: 4.2,
       ratings_total: 8968,
       prices: [
@@ -283,7 +283,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81I3nSMWDNL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/51xz0+Y1oUL._SX300_SY300_.jpg",
       bestseller: {
         link: "https://www.amazon.in/gp/bestsellers/electronics/15747864031/ref=sr_bs_0_15747864031_1",
         category: "Smart Televisions"
@@ -338,7 +338,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71d5fMDvq9L._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/71d5fMDvq9L._SX679_.jpg",
       deal: {
         link: "https://www.amazon.in/gp/goldbox/",
         badge_text: "Deal of the Day"
@@ -387,7 +387,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71a4ZQNqTiL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/51q3+E64azL._SX300_SY300_.jpg",
       rating: 4.2,
       ratings_total: 8968,
       is_carousel: true,
@@ -432,7 +432,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81tD7OZ0RXL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/518sTcK7UGL._SX300_SY300_QL70_FMwebp_.jpg",
       rating: 4.2,
       ratings_total: 34465,
       is_carousel: true,
@@ -477,7 +477,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/819SRH2DKBL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/51ovMTXv9RL._SX300_SY300_QL70_FMwebp_.jpg",
       deal: {
         link: "https://www.amazon.in/gp/goldbox/",
         badge_text: "Deal of the Day"
@@ -526,7 +526,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/712WHRm2nwL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41mW+TS5WKL._SY300_SX300_.jpg",
       rating: 4.3,
       ratings_total: 21643,
       is_carousel: true,
@@ -571,7 +571,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81I5oICiIzL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/51hQfTroMzL._SX300_SY300_QL70_FMwebp_.jpg",
       rating: 4.2,
       ratings_total: 8436,
       is_carousel: true,
@@ -616,7 +616,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/712am1RDNiL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/712am1RDNiL._SX679_.jpg",
       deal: {
         link: "https://www.amazon.in/gp/goldbox/",
         badge_text: "Limited time deal"
@@ -665,7 +665,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81tD7OZ0RXL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/518sTcK7UGL._SX300_SY300_QL70_FMwebp_.jpg",
       rating: 4.2,
       ratings_total: 34465,
       prices: [
@@ -706,7 +706,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/712am1RDNiL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/712am1RDNiL._SX679_.jpg",
       deal: {
         link: "https://www.amazon.in/gp/goldbox/",
         badge_text: "Limited time deal"
@@ -751,7 +751,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71L-lTQnJiL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41FHquLwUyL._SX300_SY300_QL70_FMwebp_.jpg",
       deal: {
         link: "https://www.amazon.in/gp/goldbox/",
         badge_text: "Limited time deal"
@@ -796,7 +796,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71arAQvySlL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/51MSfN+r97L._SY300_SX300_.jpg",
       rating: 4.3,
       ratings_total: 12571,
       prices: [
@@ -837,7 +837,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/819SRH2DKBL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/51ovMTXv9RL._SX300_SY300_QL70_FMwebp_.jpg",
       deal: {
         link: "https://www.amazon.in/gp/goldbox/",
         badge_text: "Deal of the Day"
@@ -882,7 +882,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81I5oICiIzL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/51hQfTroMzL._SX300_SY300_QL70_FMwebp_.jpg",
       rating: 4.2,
       ratings_total: 8436,
       prices: [
@@ -923,7 +923,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61raZPRCsbL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41xOPP5W8xL._SX300_SY300_QL70_FMwebp_.jpg",
       is_prime: true,
       rating: 3.8,
       ratings_total: 66,
@@ -966,7 +966,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81iLglMLueL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/512YHGuR4RL._SX300_SY300_QL70_FMwebp_.jpg",
       deal: {
         link: "https://www.amazon.in/gp/goldbox/",
         badge_text: "Deal of the Day"
@@ -1011,7 +1011,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71g3OF4CL9L._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41DtKNis1UL._SY300_SX300_QL70_FMwebp_.jpg",
       deal: {
         link: "https://www.amazon.in/gp/goldbox/",
         badge_text: "Limited time deal"
@@ -1056,7 +1056,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71B7sRIydwL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41Tz1YnJkoL._SY300_SX300_QL70_FMwebp_.jpg",
       rating: 4.3,
       ratings_total: 7967,
       prices: [
@@ -1097,7 +1097,7 @@ const television_data = [
           id: "15747864031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71eUw15rVbL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41RVzq6GiIL._SY300_SX300_QL70_FMwebp_.jpg",
       coupon: {
         badge_text: "Save ₹2,000",
         text: "with coupon"
