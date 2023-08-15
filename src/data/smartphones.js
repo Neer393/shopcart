@@ -10,7 +10,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/611jxZCY1bL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41bLD50sZSL._SX300_SY300_QL70_FMwebp_.jpg",
       bestseller: {
         link: "https://www.amazon.in/gp/bestsellers/electronics/ref=sr_bs_0_electronics_1",
         category: "Electronics"
@@ -55,7 +55,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31k5Lf6HYOL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/31k5Lf6HYOL.jpg",
       is_prime: true,
       rating: 3,
       ratings_total: 512,
@@ -101,7 +101,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61uupH-LTjL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/31KXW+vFIVL._SY300_SX300_.jpg",
       is_prime: true,
       rating: 3,
       ratings_total: 27,
@@ -147,7 +147,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61ahn9N38zL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41iEc0hf6TL._SX300_SY300_QL70_FMwebp_.jpg",
       is_prime: true,
       rating: 4.3,
       ratings_total: 21789,
@@ -186,7 +186,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71AvQd3VzqL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/413u56t+CiL._SY300_SX300_.jpg",
       deal: {
         link: "https://www.amazon.in/gp/goldbox/",
         badge_text: "Limited time deal"
@@ -235,7 +235,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/611jxZCY1bL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41bLD50sZSL._SX300_SY300_QL70_FMwebp_.jpg",
       bestseller: {
         link: "https://www.amazon.in/gp/bestsellers/electronics/ref=sr_bs_5_electronics_1",
         category: "Electronics"
@@ -279,7 +279,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/611jxZCY1bL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41bLD50sZSL._SX300_SY300_QL70_FMwebp_.jpg",
       bestseller: {
         link: "https://www.amazon.in/gp/bestsellers/electronics/ref=sr_bs_0_electronics_1",
         category: "Electronics"
@@ -328,7 +328,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61ahn9N38zL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41iEc0hf6TL._SX300_SY300_QL70_FMwebp_.jpg",
       is_prime: true,
       rating: 4.3,
       ratings_total: 21789,
@@ -372,7 +372,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81-fFXQdPTL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41op1vdp-UL._SX300_SY300_QL70_FMwebp_.jpg",
       is_prime: true,
       rating: 4.1,
       ratings_total: 23326,
@@ -422,7 +422,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71AvQd3VzqL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/413u56t+CiL._SY300_SX300_.jpg",
       deal: {
         link: "https://www.amazon.in/gp/goldbox/",
         badge_text: "Limited time deal"
@@ -476,7 +476,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81Te0dZU7nL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41z4-aatqhL._SX300_SY300_QL70_FMwebp_.jpg",
       is_prime: true,
       rating: 4,
       ratings_total: 2908,
@@ -526,7 +526,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/812YsUxpyfL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41Vj+8XWIQL._SY300_SX300_.jpg",
       rating: 4.1,
       ratings_total: 23326,
       is_carousel: true,
@@ -546,7 +546,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81IPrkMDqVL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41E7AITsGaL._SX300_SY300_QL70_FMwebp_.jpg",
       is_prime: true,
       rating: 4,
       ratings_total: 8482,
@@ -596,7 +596,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/611jxZCY1bL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41bLD50sZSL._SX300_SY300_QL70_FMwebp_.jpg",
       is_prime: true,
       is_carousel: true,
       carousel: {
@@ -644,7 +644,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81IPrkMDqVL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41E7AITsGaL._SX300_SY300_QL70_FMwebp_.jpg",
       is_prime: true,
       rating: 4,
       ratings_total: 8482,
@@ -689,7 +689,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71V--WZVUIL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41mDAtPMDKL._SX300_SY300_QL70_FMwebp_.jpg",
       deal: {
         link: "https://www.amazon.in/gp/goldbox/",
         badge_text: "Limited time deal"
@@ -738,7 +738,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/617MPEZB5mL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41qLZhKF5ZL._SX300_SY300_QL70_FMwebp_.jpg",
       is_prime: true,
       rating: 4.3,
       ratings_total: 21789,
@@ -777,7 +777,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81Te0dZU7nL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41z4-aatqhL._SX300_SY300_QL70_FMwebp_.jpg",
       is_prime: true,
       rating: 4,
       ratings_total: 2908,
@@ -822,7 +822,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/611jxZCY1bL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41bLD50sZSL._SX300_SY300_QL70_FMwebp_.jpg",
       is_prime: true,
       prices: [
         {
@@ -865,7 +865,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81-fFXQdPTL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41op1vdp-UL._SX300_SY300_QL70_FMwebp_.jpg",
       is_prime: true,
       rating: 4.1,
       ratings_total: 23326,
@@ -910,7 +910,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61V8JiZ9doL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/61V8JiZ9doL._SX569_.jpg",
       deal: {
         link: "https://www.amazon.in/gp/goldbox/",
         badge_text: "Limited time deal"
@@ -960,7 +960,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41IzF7MHWKL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41IzF7MHWKL.jpg",
       is_prime: true,
       rating: 3.7,
       ratings_total: 170,
@@ -1006,7 +1006,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91J1pz6vBcL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41PNVbmQdfL._SX300_SY300_QL70_FMwebp_.jpg",
       deal: {
         link: "https://www.amazon.in/gp/goldbox/",
         badge_text: "Limited time deal"
@@ -1056,7 +1056,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81t6Av5DvXL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/81t6Av5DvXL._SX569_.jpg",
       is_prime: true,
       rating: 3.9,
       ratings_total: 2064,
@@ -1101,7 +1101,7 @@ const smartphones_data=[
           id: "1805560031"
         }
       ],
-      image: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81UT07JsBqL._AC_UL320_.jpg",
+      image: "https://m.media-amazon.com/images/I/41Wd9J6nfpL._SY445_SX342_QL70_FMwebp_.jpg",
       is_prime: true,
       rating: 4,
       ratings_total: 11608,
